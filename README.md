@@ -1,3 +1,5 @@
+![license](https://img.shields.io/github/license/Air-999/AirVideo)
+//![qq](https://img.shields.io/badge/QQ群-904101926-green)
 # AirVideo
 A video website 一个视频网站
 # 百度网盘

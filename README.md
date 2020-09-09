@@ -1,5 +1,5 @@
 ![license](https://img.shields.io/github/license/Air-999/AirVideo)
-![Travis](https://img.shields.io/apm/dm/Air-999/AirVideo)
+![release](https://img.shields.io/github/v/release/Air-999/AirVideo)
 ![qq](https://img.shields.io/badge/QQ群-892084932-green)
 # AirVideo
 A video website 一个视频网站

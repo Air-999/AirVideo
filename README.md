@@ -11,4 +11,3 @@ A video website 一个视频网站
 # 捐助
 如果这个项目对您有帮助，请右上方点 Star 予以支持！也欢迎各方任何形式的捐助，任何金额的赞助都将非常感谢。
 <img src="http://free-cn-01.cdn.bilnn.com/ddimg/jfs/t1/131683/35/9428/134760/5f5883a5E8f0546ff/a8d1aff8326287a4.jpg" width="550" height="auto"/>
-![note](http://free-cn-01.cdn.bilnn.com/ddimg/jfs/t1/131683/35/9428/134760/5f5883a5E8f0546ff/a8d1aff8326287a4.jpg)

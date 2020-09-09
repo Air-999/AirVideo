@@ -10,3 +10,4 @@ A video website 一个视频网站
 邮箱：904101926@qq.com
 # 捐助
 如果这个项目对您有帮助，请右上方点 Star 予以支持！也欢迎各方任何形式的捐助，任何金额的赞助都将非常感谢。
+<img src="https://github.com/Air-999/AirVideo/tree/master/pay/alipay.jpg?raw=true" width="200"  height="auto"/>

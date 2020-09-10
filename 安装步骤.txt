@@ -1,4 +1,4 @@
-压缩包解压到D盘根目录
+压缩包解压到D:\AirVideo
 
 1.安装VC_redist.x64.exe
 
